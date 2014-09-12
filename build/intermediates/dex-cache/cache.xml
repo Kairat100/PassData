@@ -2,28 +2,28 @@
 <pre-dex-items>
 
     <item
-        dex="E:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\classes-9ca439ecbcae61c8008932060bcfae6adf14c50e.jar"
-        jar="E:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
-    <item
-        dex="E:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-b79e3f150a9fba8b5312cdfef11fb87024d370ac.jar"
-        jar="E:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        dex="G:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-da4ce06e7787896371110a0e395823f438ee2cef.jar"
+        jar="G:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
     <item
-        dex="E:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\classes-1879bc11c3564b9bf81e2f92b3d80e656a3e5f22.jar"
-        jar="E:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        dex="G:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-4e98459fb04ba8b8986ee6b78ee4c70272a7d582.jar"
+        jar="G:\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="G:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\classes-bef71481bcc56448cfb22e5f4b4ac2aefcc433b8.jar"
+        jar="G:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
     <item
-        dex="E:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-224584dc0ada9c4f690ee0b739f6ac429718dd7e.jar"
-        jar="C:\Program Files (x86)\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        dex="G:\AndroidWorkspace\PassingData\app\build\intermediates\pre-dexed\debug\classes-4990dc5d01d3a7cdaef03ff7df5d684b731644c5.jar"
+        jar="G:\AndroidWorkspace\PassingData\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
 
 </pre-dex-items>
